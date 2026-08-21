@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1148-article-views-i) |
+| [1527-patients-with-a-condition](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1729-find-followers-count) |
