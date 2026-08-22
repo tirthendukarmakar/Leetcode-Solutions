@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
