@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
