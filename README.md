@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
