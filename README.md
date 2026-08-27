@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1484-group-sold-products-by-the-date](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1527-patients-with-a-condition) |
