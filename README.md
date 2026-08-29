@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-reformat-phone-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1694-reformat-phone-number) |
+| [3798-largest-even-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
 |  |
 | ------- |
