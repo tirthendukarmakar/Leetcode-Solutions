@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1694-reformat-phone-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1694-reformat-phone-number) |
 | [3798-largest-even-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
