@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Recursion
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
