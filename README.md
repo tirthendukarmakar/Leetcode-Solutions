@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3099-harshad-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -99,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
