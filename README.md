@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3099-harshad-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
