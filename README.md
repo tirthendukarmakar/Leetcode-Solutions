@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
