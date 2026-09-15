@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1694-reformat-phone-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1694-reformat-phone-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3798-largest-even-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
