@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3099-harshad-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3099-harshad-number) |
+| [3524-find-x-value-of-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
