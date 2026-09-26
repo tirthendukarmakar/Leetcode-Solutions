@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1694-reformat-phone-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1694-reformat-phone-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3798-largest-even-number) |
