@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [2974-minimum-number-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
 |  |
 | ------- |
