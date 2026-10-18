@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3524-find-x-value-of-array-i](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tirthendukarmakar/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
